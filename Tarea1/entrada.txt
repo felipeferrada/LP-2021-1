@@ -1,0 +1,6 @@
+{
+	data: {"casa2": 9856, "dict1": {"alo": 5465, "dict2": {"listo": [654, 654]}}},
+	type: "GET",
+	url: "ejemplo.txt"
+}
+-----
