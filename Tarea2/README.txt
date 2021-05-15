@@ -1,3 +1,5 @@
+Esta wea no funciona xd no copiar :c
+
 Nombre: Felipe Ferrada Morales
 Rol: 201973606-K
 
